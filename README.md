@@ -16,3 +16,7 @@ V3:
 In the Version 3 script the script compares the images in fotos_prueba with the test_excel_prueba file, then it saves the unique size code for each img and renames 
 the actual img with that code and its position to be uploaded on Amazon. Then it creates the tallas directory and another directory inside that one for each size 
 which will contain the renamed images for each size. 
+
+start.py:
+The start.py is the final version that creates a zip folder out of each one of the previously created "tallas" folder so it can be easily uploaded to Amazon.
+More sizes were added to the code.
