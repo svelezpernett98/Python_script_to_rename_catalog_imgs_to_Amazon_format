@@ -1,5 +1,5 @@
 # Python_script_to_rename_catalog_imgs_to_Amazon_format
-3 different ways for renaming images from a folder, and asign them their unique Amazon product size code and position, so it can be uploaded to Amazon
+4 different ways for renaming images from a folder, and asign them their unique Amazon product size code and position, so it can be uploaded to Amazon
 
 V1:
 In the Version 1 script the script compares the images in imagenes_nombre_maaji with the test_excel file, then it saves the unique size code for each img and renames 
