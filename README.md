@@ -19,4 +19,5 @@ which will contain the renamed images for each size.
 
 start.py:
 The start.py is the final version that creates a zip folder out of each one of the previously created "tallas" folder so it can be easily uploaded to Amazon.
-More sizes were added to the code.
+More sizes were added to the code. If a folder is equal to 1GB, it creates another one so it doesn´t overpass the file size limit for Amazon. 
+This version compares the images in Fotos folder, and the info in Fotos_excel
